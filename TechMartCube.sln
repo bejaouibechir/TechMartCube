@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "TechMartCube", "TechMartCube\TechMartCube.dwproj", "{BEE53785-805C-E0B4-7265-0B2EEF394C14}"
+EndProject
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "ProjetIrregular", "ProjetIrregular\ProjetIrregular.dwproj", "{79651DD4-7BB9-98E4-FD94-C6EB1EF4AAAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEE53785-805C-E0B4-7265-0B2EEF394C14}.Development|Default.ActiveCfg = Development
+		{BEE53785-805C-E0B4-7265-0B2EEF394C14}.Development|Default.Build.0 = Development
+		{BEE53785-805C-E0B4-7265-0B2EEF394C14}.Development|Default.Deploy.0 = Development
+		{79651DD4-7BB9-98E4-FD94-C6EB1EF4AAAF}.Development|Default.ActiveCfg = Development
+		{79651DD4-7BB9-98E4-FD94-C6EB1EF4AAAF}.Development|Default.Build.0 = Development
+		{79651DD4-7BB9-98E4-FD94-C6EB1EF4AAAF}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38574873-1337-493F-8260-96126CE2C398}
+	EndGlobalSection
+EndGlobal
