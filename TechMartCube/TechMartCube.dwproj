@@ -20,12 +20,16 @@
   </Cubes>
   <Dimensions>
     <ProjectItem>
+      <Name>Dim Campaign.dim</Name>
+      <FullPath>Dim Campaign.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
       <Name>Dim Customer.dim</Name>
       <FullPath>Dim Customer.dim</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>Dim Campaign.dim</Name>
-      <FullPath>Dim Campaign.dim</FullPath>
+      <Name>Dim Date.dim</Name>
+      <FullPath>Dim Date.dim</FullPath>
     </ProjectItem>
     <ProjectItem>
       <Name>Dim Product.dim</Name>
@@ -40,20 +44,12 @@
       <FullPath>Dim Sales Person.dim</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>Dim Time.dim</Name>
-      <FullPath>Dim Time.dim</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>Dim Date.dim</Name>
-      <FullPath>Dim Date.dim</FullPath>
-    </ProjectItem>
-    <ProjectItem>
       <Name>Dim Store.dim</Name>
       <FullPath>Dim Store.dim</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>Dim Degenrate.dim</Name>
-      <FullPath>Dim Degenrate.dim</FullPath>
+      <Name>Dim Time.dim</Name>
+      <FullPath>Dim Time.dim</FullPath>
     </ProjectItem>
     <ProjectItem>
       <Name>Dim Geography.dim</Name>
